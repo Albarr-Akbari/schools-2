@@ -1,0 +1,21 @@
+img{
+    width: 50%;
+    height: 50%;
+    border: none;
+}
+body{
+  background-color: aliceblue;  
+}
+h3{
+    color: white;
+}
+#div{
+  color: orange;
+}
+#thebartonav{
+  position: sticky;
+  top: 0px;
+  background-color: black;
+  color: aliceblue;
+  z-index: 9999999999999;
+}
